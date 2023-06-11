@@ -1,0 +1,13 @@
+name = "protobuf_c_jll"
+uuid = "d730a6b3-54e8-5a61-8821-996059275344"
+version = "1.4.1+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+protoc_jll = "c7845625-083e-5bbe-8504-b32d602b7110"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
