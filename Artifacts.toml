@@ -1,288 +1,288 @@
 [[protobuf_c]]
 arch = "aarch64"
-git-tree-sha1 = "443c386052910f3884ecd875bf7bba5527314bdb"
+git-tree-sha1 = "4223cfd7dd2db8ff1546b379fea6f7ce4556c0c5"
 os = "macos"
 
     [[protobuf_c.download]]
-    sha256 = "cfd1ad6cda857b98d609fe4ed590d2ada0d487fd54b6a4468e1bf45413339a18"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "ac9b7f1ce4ee916b75475277e5f0588d6646e33ccbc7dc56e4e6e962f55fbbb0"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.aarch64-apple-darwin.tar.gz"
 [[protobuf_c]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a885dc5a4cdd5cf8a7079396d96fc8fa07b48afb"
+git-tree-sha1 = "02b7e09578ada67d4969985124418c8bd089c535"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "c26acee2154fbcafa8cbdfcc33ac008c9b2db0a223aec2d9a0573ec9c6ad3460"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "d18ed25fb3955c065dc8ec4f6f51e6029922b142bdeb7b9971d4b02c8ecec685"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb198aec164d936122d2ad1f0521d4e9b4dc50ee"
+git-tree-sha1 = "cba6c176d16b7e0a3a9aa077e6ee02885a81f6cd"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "4362853df90145805fe23b85391afc1efb70655c2ff75e60d25b71ca6bdd5972"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6797e567723a7917f8df55647cd851ae19d7c9c0e62d4b6bfb134b440994115b"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "57560c72152522a9c767eba0fbe98a1981d3902d"
+git-tree-sha1 = "e7d38b6cea99c3be36f83a6fceaa04c813430949"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "945cd0e757d1047a4280c09fc5cbd2693b557be4da4fcf9047483439617c573a"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "f82f08424e9b8089a1a4a5481a93b1c96f3460b27433aef63fed9fc8e3347e42"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.aarch64-linux-musl-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "315efde46d5e0906da738cf88da7875ce263086d"
+git-tree-sha1 = "aca3abb83bdd23e42237b09b9163ec0de123fa80"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "d1008b9db645c754213581d394146b442bf013bba444fa9e95f557da26022db2"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "741b31cd78a80fa38b107543e9af18eb3187aef7a5b3e1def4a6e6cd9eb29570"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.aarch64-linux-musl-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9fb8ded0eae69deb7c2470d210cb26d71c11d69a"
+git-tree-sha1 = "d91bb7fbf479f8b164a4c9e3664cad7d2eb32ab7"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "80b43eb2126f7fddc1ec100b157729c93f16897985002c07774180f9f4f99406"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "e6db4b11c2821c5371d370940c57f0083d25d059308c555755cf272c5158a4e9"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d302ffcd3f35ff6baced8c7e9d841f69220cb761"
+git-tree-sha1 = "1d393986a095c0b873430bb6c7acb1eea89f806c"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "3b3f239f2111e6b0d303bb06fc5e4accae346ca63a469a5a935dc04667e6ccd1"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "12c956a156a22a0d3f07bff6e0d0837877cd09fd998d3b0eac3a95bbf8f4c1f8"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3596c7b9959232056e61ccc11b2daeeebffd238f"
+git-tree-sha1 = "879412561c61000174e9f11e1e5413c9c6dcb481"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "b4bf5cf7486ddd5dee202d27f442dab622086449170a2814afb98f2aee74c4f9"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "ef137311550927a5307aaa08eb4c97c7d5205c238149726575517b8075057e60"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5ee50f4b5fd1cd0032586588ee246022b5485be3"
+git-tree-sha1 = "c359fc3a49397fe96755dac80fab5e2f24c92166"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "233452e8fc62310b139ad0c5af4a3ba0e88ffe21a44cb6db648ee2c848674f39"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "30b89e49fdc51d7f6391b766191a0a2cb2fc52ff0603e27d8633ed0a0df88dd4"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "422f6c0a7d3c96356cc400f090a596496a6204ab"
+git-tree-sha1 = "f3ed680f6d4f54df2a16090222e0540220be0d3b"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "ebd982a17fd9f7db5b96bb96a8e2a0ff2b156eed37289c74f8cfd9b7d7eeb14b"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "ceabcb0f96a716ac9fb5153be91030110a66d3a789237efba9c7bb1e9596211a"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2b85ad427d4c5c37cd1b43963203ebf10384b411"
+git-tree-sha1 = "44a0f0f02dfa5ccd3f62485e34867286dfc568e0"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "919f8d262ec9b5496044fbde99d7f98c3a109ba89fdb3cbb9263a0ecf06e8132"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "4d476afe9fafdb77f520e2d3a0703e82c153ab3b77f80ae680cd00bbdf037e5d"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2de305dc5fce0070dc896583c29b813cb9a4bb33"
+git-tree-sha1 = "4e5a1f1bb836971d7c85a0251e429c1451372af8"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "e4185733a22d5aa7f1fa31bdcbf498c9aee47144a3a08e3fcc875ba739329b7c"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "ef46633b49ebef4f8cf980f99c69421e998ccc07ed34ea47181b7ef74c28e147"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d1203c40b596bfd6aebd65782f29b8635b37ec61"
+git-tree-sha1 = "cb598940d783725b69f0fa2e75ccaf10a0b31688"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "45a9932421b871bcb50b692f5ae61d25d3c1abaed007e94997f0589ab9772e09"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "b34cb19246cbe66d7caae728688930562be94f97e999f67597373aa0115aafe8"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0db7aa2cd2dda6d4bc414f05c8a36670252ffd8a"
+git-tree-sha1 = "7587789c736c9c1eafe03c768d621625a78ea2ee"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "95caf880cc0f70c2c5b6fd0b78eeb0c327bd79ccba90cc429d7a6917b8e427d8"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "7e5fdd3eede06bd7738bcef6e941af02e281f52a34382e266bd515de99b2d3db"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.i686-linux-gnu-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1536bb1cf7bcbf2a9d265e1da0ee04be5c19ca18"
+git-tree-sha1 = "876d1b77e4d73ae5fae9122d750b3d18dcebde19"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "814afcd6465fbb8e62b0ebee031ccc26011834821643ec2013595641a0769e02"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "4303c02a98c3648d85a8f5e7606927091c562838db365afe74252175c1d40543"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.i686-linux-gnu-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "71897c8fa0f5c1e0b12bb5ffc97965b594b98e8e"
+git-tree-sha1 = "39f365f52936945ea983dc8c30159b2734612869"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "5afcec12f21349f63970b2b16a1d3bbeb9b63ee6ada62322ebac0e1ff30b6cc6"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "3047f685c69df9e8b2743cab6a34f3225d35b2211b79a65421618c5122475344"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.i686-linux-musl-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fedbbf4bcd8eb1abd6284ed9cda55caacd262a9c"
+git-tree-sha1 = "a04fc2beefdbb56e7ce2cb03df18f6eec8c307a3"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "d3ee3514ae8ab7b35a986e138c7a484a4973f0224e622aad512450841517ce89"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "52b731ce73c966b8baf53ab278a1e8ffb874218387d6dc7540e612011fc590f7"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.i686-linux-musl-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d0b8991d1f55688b86e10a4783cdaabe0f82b6ac"
+git-tree-sha1 = "12e7c295089932cde51cc682217ab1c5de2d1132"
 os = "windows"
 
     [[protobuf_c.download]]
-    sha256 = "d78fd707e8b7ac5b129caed493656824ecf29c87767393d7609eb1785145294b"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "f8487783193c0be3eec8153cd15c06d458358ae41e73bb82fddc20751cd2f5ce"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.i686-w64-mingw32-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "33284380ad7b7ee27a3cabe3a1fae6b6ed984714"
+git-tree-sha1 = "35baee192edfbcec543e71ec20318088f4362b2c"
 os = "windows"
 
     [[protobuf_c.download]]
-    sha256 = "36675f185f1f5bd0a80d30dc9d09d7963073912e0b2cc151e3efa58da76d540e"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "2f7a57b245f1db60539bcca349413cb7334df43e63986f5d005660cee0b6487a"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.i686-w64-mingw32-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fee0ef2e3b847f96ec167b022601a2c3ef1783ef"
+git-tree-sha1 = "111d5aad020ec589105e13be40ce612750f4b6ee"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "e9de7b30e6ef7c2bd49e55d9b4554e274f192e9c59951e738906617f6d5be662"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "4c5e9384f5599f488c39095e44e7b9d3cc5726f0037e54a6781d2c59f0e284e2"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9ffe24be85a6030ac2d0ec7d61335b803c74e4a4"
+git-tree-sha1 = "2d9af8b04713a4ac38df0f5f622bdd384885ec6e"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "0df55304c8cc93b0fd89bb80a8bbd86e16e506bde624f6305130aff452f1b608"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "32533d8c2ed3030d3169eadcd025c8d6e70cc03a90bae343646801c3954261c3"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "x86_64"
-git-tree-sha1 = "810f2db13858f42185d0a449ecad3f9c01d19265"
+git-tree-sha1 = "f48a2e2c442ab0cd415641a4e1fc66e764d24838"
 os = "macos"
 
     [[protobuf_c.download]]
-    sha256 = "e7fd190829580838047b6a122ed57081700924f901edbf2bbd0cb5b8dc9fda36"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "ad03482d347f9f99a8052293ebac06e452c514514dbd8a70f199489f2bdbd09e"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.x86_64-apple-darwin.tar.gz"
 [[protobuf_c]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "249a3af6fc3b18b8c02f0c540dbb55be9f95b138"
+git-tree-sha1 = "f63b1d0d78ebf44b879e6554ba9489428b61240e"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "58235f31f9f6c91afa6aba6e9b27f026adb2e7f57e42287d949680a171dc4706"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "35813e5f5648ca786a021836dbb65ffce19cba37ea25a1adaa78ec7c512fc1bf"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "96cf95bb669c130f48392189726a6ec36259a470"
+git-tree-sha1 = "32ebe089295ca16ea8722b3edeb91f212d0a7c11"
 libc = "glibc"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "b39261fbba0e6d698e73daf869eb66605fe430462a2bf5b1c30f3227d0bb788d"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "14642229fb6373ad2c7c45b39210e6b3e5df85f241cb5984320fb0fbeef97b53"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a425897927dee0f3edbc272844892169518bc44d"
+git-tree-sha1 = "d2c7997797cbb96246ca1eeb6adb54fba8607c75"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "28753069e878a277d9599a02a0340d2066d56a7794f3de49d3d34898e06adc47"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "4f3218ee3d6bcf70cb47feec2235b53b993edb0864fd47b2db8df2d7114ecbd1"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.x86_64-linux-musl-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65e9ae1f3979954160393648248b8d07c25351f7"
+git-tree-sha1 = "84178953fbaeb1b9a38d71596cbe77704f8c8bea"
 libc = "musl"
 os = "linux"
 
     [[protobuf_c.download]]
-    sha256 = "2aae5a6f2086f35e43e8456090c47e5940fdc57607e8f0c0776e393a75fdd679"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "d2140d4066830b512ff1015d0ec7a93d3107cfce9596b1b5b9a8378b7141ae0e"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.x86_64-linux-musl-cxx11.tar.gz"
 [[protobuf_c]]
 arch = "x86_64"
-git-tree-sha1 = "3e02ca93751554f846163ff477c0afecb4cf5ffc"
+git-tree-sha1 = "f69bb482e59ed48ef5bfdb60f6d9ac592aae0f7a"
 os = "freebsd"
 
     [[protobuf_c.download]]
-    sha256 = "11115994cbbf4e13fa38cc198482ba9d52aac70802e8544e9ea16b9dba9da082"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "b0e623189bc87a0854ff56d7fae95975e80be5dbaded46d3183c1d9d61f27988"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.x86_64-unknown-freebsd.tar.gz"
 [[protobuf_c]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d2918b81af603308575dd3011aa4d26acfb68b47"
+git-tree-sha1 = "dbba0a884672961be5b1fd7b0feebed20430bc5b"
 os = "windows"
 
     [[protobuf_c.download]]
-    sha256 = "06a1825474ba6b403dd338c212edf6969cbcea466a384279882a64f970a4e554"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "4fc4d58265011350f8669498f719e200da14a7bf3a017e0d2b861fb155808a96"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[protobuf_c]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b633c6e04b1a8b92d2ba3bb1f4b472d718798317"
+git-tree-sha1 = "ab7e7e1fa9d001ce6273e06a1e964060958b8dc7"
 os = "windows"
 
     [[protobuf_c.download]]
-    sha256 = "2790c7915b6387bdaa2c9317157170d63710f564f6dcb017bea3e1f013608c19"
-    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.4.1+0/protobuf_c.v1.4.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c5971edb74a1b6bbd6a0cddbbdbbe8d7c3adb2ab1116f98850982886bf3d4392"
+    url = "https://github.com/JuliaBinaryWrappers/protobuf_c_jll.jl/releases/download/protobuf_c-v1.5.0+0/protobuf_c.v1.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
